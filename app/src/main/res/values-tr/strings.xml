@@ -106,9 +106,11 @@
     <string name="about_contribution_tab_title">Katkı</string>
     <string name="about_license_tab_title">Lisans</string>
 
-    <string name="widget_all_notes_title">Tum notlar</string>
+    <!-- Widgets -->
+    <string name="widget_note_list_title">Not listesi</string>
     <string name="widget_single_note_title">Tek not</string>
     <string name="widget_create_note">Not Ekle</string>
+    <string name="widget_not_logged_in">Bu aracı kullanabilmek için lütfen Notlar oturumu açın</string>
 
     <string name="activity_select_single_note">Not seçin</string>
 

@@ -73,7 +73,7 @@
     <!-- Error -->
     <string name="error_sync">Synkronisering mislyktes: %1$s</string>
     <string name="error_invalid_login">Ugyldig pålogging: %1$s</string>
-    <string name="error_json">er Notat-programmet aktivert på tjeneren?</string>
+    <string name="error_json">er Notat-programmet påslått på tjeneren?</string>
     <string name="error_io">tilkoblingen til tjener er avbrutt</string>
     <string name="error_no_network">Ingen nettverkstilkobling</string>
     <string name="error_server">URL/Tjener har feil</string>
@@ -106,10 +106,8 @@
     <string name="about_contribution_tab_title">Bidragsytere</string>
     <string name="about_license_tab_title">Lisens</string>
 
-    <string name="widget_all_notes_title">Alle notater</string>
     <string name="widget_single_note_title">Enkeltnotat</string>
     <string name="widget_create_note">Opprett notat</string>
-
     <string name="activity_select_single_note">Velg notat</string>
 
     <!-- Shortcuts -->

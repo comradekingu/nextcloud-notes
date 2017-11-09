@@ -95,7 +95,6 @@
     <string name="about_contribution_tab_title">Kontributi</string>
     <string name="about_license_tab_title">Liçensë</string>
 
-    <string name="widget_all_notes_title">Të gjitha shënimet</string>
     <string name="widget_single_note_title">Një shënim i vetëm</string>
     <!-- Shortcuts -->
     <string name="shortcut_create_long">Krijo një shënim të ri</string>

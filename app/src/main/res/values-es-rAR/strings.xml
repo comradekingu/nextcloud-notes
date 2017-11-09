@@ -96,10 +96,8 @@ Desea confiar en el mismo?</string>
     <string name="about_contribution_tab_title">Contribución</string>
     <string name="about_license_tab_title">Licencia</string>
 
-    <string name="widget_all_notes_title">Todas la notas</string>
     <string name="widget_single_note_title">Única nota</string>
     <string name="widget_create_note">Crear Nota</string>
-
     <!-- Shortcuts -->
     <string name="shortcut_create_long">Crear una nota nueva</string>
 

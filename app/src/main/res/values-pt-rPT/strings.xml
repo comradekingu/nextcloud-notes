@@ -106,10 +106,8 @@
     <string name="about_contribution_tab_title">Contribuição</string>
     <string name="about_license_tab_title">Licença</string>
 
-    <string name="widget_all_notes_title">Todas as notas</string>
     <string name="widget_single_note_title">Nota única</string>
     <string name="widget_create_note">Criar nota</string>
-
     <string name="activity_select_single_note">Selecionar nota</string>
 
     <!-- Shortcuts -->

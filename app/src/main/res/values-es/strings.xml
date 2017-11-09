@@ -106,9 +106,11 @@
     <string name="about_contribution_tab_title">Contribuir</string>
     <string name="about_license_tab_title">Licencia</string>
 
-    <string name="widget_all_notes_title">Todas las notas</string>
+    <!-- Widgets -->
+    <string name="widget_note_list_title">Lista de notas</string>
     <string name="widget_single_note_title">Nota única</string>
     <string name="widget_create_note">Crear nota</string>
+    <string name="widget_not_logged_in">Por favor, inicia sesión en Notas antes de usar este widget</string>
 
     <string name="activity_select_single_note">Selecciona nota</string>
 

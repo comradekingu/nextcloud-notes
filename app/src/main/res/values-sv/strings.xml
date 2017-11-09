@@ -106,10 +106,8 @@
     <string name="about_contribution_tab_title">Medverkan</string>
     <string name="about_license_tab_title">Licens</string>
 
-    <string name="widget_all_notes_title">Alla anteckningar</string>
     <string name="widget_single_note_title">Enstaka anteckning</string>
     <string name="widget_create_note">Skapa anteckning</string>
-
     <string name="activity_select_single_note">Välj anteckning</string>
 
     <!-- Shortcuts -->

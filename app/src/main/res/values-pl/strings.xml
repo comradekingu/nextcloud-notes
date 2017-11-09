@@ -106,10 +106,8 @@
     <string name="about_contribution_tab_title">Wkład</string>
     <string name="about_license_tab_title">Licencja</string>
 
-    <string name="widget_all_notes_title">Wszystkie notatki</string>
     <string name="widget_single_note_title">Pojedyncza notatka</string>
     <string name="widget_create_note">Utwórz notatkę</string>
-
     <string name="activity_select_single_note">Wybierz notatkę</string>
 
     <!-- Shortcuts -->

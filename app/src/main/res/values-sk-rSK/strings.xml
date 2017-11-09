@@ -106,9 +106,11 @@
     <string name="about_contribution_tab_title">Príspevok</string>
     <string name="about_license_tab_title">Licencia</string>
 
-    <string name="widget_all_notes_title">Všetky poznámky</string>
+    <!-- Widgets -->
+    <string name="widget_note_list_title">Zoznam poznámok</string>
     <string name="widget_single_note_title">Jedna poznámka</string>
     <string name="widget_create_note">Vytvoriť poznámku</string>
+    <string name="widget_not_logged_in">Ak chcete používať tento widget, musíte byť prihlásený v aplikácii Poznámky</string>
 
     <string name="activity_select_single_note">Vybrať poznámku</string>
 

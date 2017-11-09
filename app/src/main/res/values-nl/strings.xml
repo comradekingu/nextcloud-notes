@@ -106,10 +106,8 @@
     <string name="about_contribution_tab_title">Bijdrage</string>
     <string name="about_license_tab_title">Licentie</string>
 
-    <string name="widget_all_notes_title">Alle notities</string>
     <string name="widget_single_note_title">Enkele notitie</string>
     <string name="widget_create_note">Maak notitie</string>
-
     <string name="activity_select_single_note">Selecteer notitie</string>
 
     <!-- Shortcuts -->

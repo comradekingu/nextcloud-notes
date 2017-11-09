@@ -106,9 +106,11 @@
     <string name="about_contribution_tab_title">Mitmachen</string>
     <string name="about_license_tab_title">Lizenz</string>
 
-    <string name="widget_all_notes_title">Alle Notizen</string>
+    <!-- Widgets -->
+    <string name="widget_note_list_title">Notizliste</string>
     <string name="widget_single_note_title">Eine Notiz</string>
     <string name="widget_create_note">Notiz erstellen</string>
+    <string name="widget_not_logged_in">Um dieses Widget zu verwenden melde Dich bitte zuerst bei Notes an</string>
 
     <string name="activity_select_single_note">Notiz auswählen</string>
 

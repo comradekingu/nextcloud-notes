@@ -106,9 +106,11 @@
     <string name="about_contribution_tab_title">Framlög</string>
     <string name="about_license_tab_title">Notkunarleyfi</string>
 
-    <string name="widget_all_notes_title">Allir minnispunktar</string>
+    <!-- Widgets -->
+    <string name="widget_note_list_title">Listi yfir minnispunkta</string>
     <string name="widget_single_note_title">Stakur minnispunktur</string>
     <string name="widget_create_note">Búa til minnispunkt</string>
+    <string name="widget_not_logged_in">Skráðu þig inn í minnispunktaforritið áður en þú notar þennan viðmótshluta</string>
 
     <string name="activity_select_single_note">Veldu minnispunkt</string>
 

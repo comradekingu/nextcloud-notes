@@ -85,7 +85,6 @@
     <string name="about_contribution_tab_title">Kontribusi</string>
     <string name="about_license_tab_title">Lisensi</string>
 
-    <string name="widget_all_notes_title">Semua catatan</string>
     <string name="widget_single_note_title">Satu catatan</string>
     <!-- Shortcuts -->
     <string name="shortcut_create_long">Buat catatan baru</string>
